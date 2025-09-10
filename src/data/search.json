@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Aurora Design Kit",
+    "description": "A modern UI kit for dashboards and admin panels.",
+    "category": "UI Kit",
+    "date": "2025-08-12",
+    "icon": "\ud83c\udfa8"
+  },
+  {
+    "id": 2,
+    "title": "Atlas CRM",
+    "description": "Lightweight CRM with contact management and pipelines.",
+    "category": "SaaS",
+    "date": "2025-06-20",
+    "icon": "\ud83d\udcc7"
+  },
+  {
+    "id": 3,
+    "title": "Bolt Analytics",
+    "description": "Fast analytics engine for small teams.",
+    "category": "Analytics",
+    "date": "2025-07-01",
+    "icon": "\ud83d\udcca"
+  },
+  {
+    "id": 4,
+    "title": "Cedar Docs",
+    "description": "A lightweight markdown docs generator.",
+    "category": "Docs",
+    "date": "2025-05-11",
+    "icon": "\ud83d\udcda"
+  },
+  {
+    "id": 5,
+    "title": "Drift Chat",
+    "description": "Real-time chat widget with analytics.",
+    "category": "Chat",
+    "date": "2025-03-30",
+    "icon": "\ud83d\udcac"
+  },
+  {
+    "id": 6,
+    "title": "Echo Payments",
+    "description": "Simple payments API for startups.",
+    "category": "Payments",
+    "date": "2025-02-18",
+    "icon": "\ud83d\udcb3"
+  }
+]
